@@ -1,0 +1,5 @@
+name: BungeeMessaging
+version: '${project.version}'
+main: fr.akinaru.bungeemessaging.Bungeemessaging
+description: Simple messaging plugin
+author: [Akinaru]

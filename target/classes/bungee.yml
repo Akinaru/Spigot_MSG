@@ -1,0 +1,5 @@
+name: BungeeMessaging
+version: '1.0-SNAPSHOT'
+main: fr.akinaru.bungeemessaging.Bungeemessaging
+description: Simple messaging plugin
+author: [Akinaru]
